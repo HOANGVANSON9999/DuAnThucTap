@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DuAnThucTap</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="pr_orders">Pr_Orders </string>
+    <string name="oncoming">OnComing </string>
+    <string name="history">History </string>
+    <string name="get_help">Get Help</string>
+    <string name="reorder">Reorder</string>
+    <string name="chicken_burger">Chicken Burger</string>
+    <string name="my_oders">My Oders</string>
+    <string name="orders">Orders</string>
+    <string name="go_a_head">Go a head, order some items\nfrom the menues</string>
 </resources>
