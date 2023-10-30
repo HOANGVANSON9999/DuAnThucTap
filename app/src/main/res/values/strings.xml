@@ -10,4 +10,6 @@
     <string name="my_oders">My Oders</string>
     <string name="orders">Orders</string>
     <string name="go_a_head">Go a head, order some items\nfrom the menues</string>
+    <string name="my_cart">My Cart</string>
+    <string name="add_promo_coden">Add Promo Coden</string>
 </resources>
